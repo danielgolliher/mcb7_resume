@@ -19,7 +19,7 @@ Contact & web presence: [Email](mailto:danielgolliher@gmail.com) / [Website](htt
 * [Jack & Percy Publishing](https://jackandpercypublishing.wordpress.com/): a small independent publishing venture; I redesign classic books for better aesthetics and physical feel, from start to finish. The second book is currently in process. I have also previously written and independently produced [three other books](https://www.amazon.com/Daniel-Golliher/e/B00MW9N79I). 
 * [Interintellect](https://interintellect.com/): I’ve hosted twelve salons as an Interintellect host on a variety of topics, and I worked with another ii team member to set up the company’s current website (we migrated from Wix to Wordpress, and I built out payment and membership functionality). 
 
-### **Community involvement in NYC**
+### **Community involvement in NYC** | _Current_
 * Running: Member, [Front Runners NYC](https://frny.org/)	
 * Advocacy: Member, [Open New York](https://opennewyork.city/)
 * Volunteering: Trash collection, [OneBlock](https://oneblockuws.org/), [Lincoln Squared](https://lincolnsquared.nyc)
