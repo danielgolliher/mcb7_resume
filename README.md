@@ -6,7 +6,7 @@ Contact & web presence: [Email](mailto:danielgolliher@gmail.com) / [Website](htt
 
 ---
 
-## 💼 Work Experience
+## 💼 Current Experience
 
 ### **Maximum New York** | _October 2021—present_
 
@@ -18,6 +18,13 @@ Contact & web presence: [Email](mailto:danielgolliher@gmail.com) / [Website](htt
 * [Lincoln Squared](https://lincolnsquared.nyc): this is a site where I record my progress in cleaning up "Trash Alley," my name for West End Avenue between 64th and 59th. I've also written about my sanitation project on _I Love the Upper West Side_ [here](https://ilovetheupperwestside.com/adopt-your-own-litter-basket-child/).  
 * [Jack & Percy Publishing](https://jackandpercypublishing.wordpress.com/): a small independent publishing venture; I redesign classic books for better aesthetics and physical feel, from start to finish. The second book is currently in process. I have also previously written and independently produced [three other books](https://www.amazon.com/Daniel-Golliher/e/B00MW9N79I). 
 * [Interintellect](https://interintellect.com/): I’ve hosted twelve salons as an Interintellect host on a variety of topics, and I worked with another ii team member to set up the company’s current website (we migrated from Wix to Wordpress, and I built out payment and membership functionality). 
+
+### **Community involvement in NYC**
+* Running: Member, [Front Runners NYC](https://frny.org/)	
+* Advocacy: Member, [Open New York](https://opennewyork.city/)
+* Volunteering: Trash collection, [OneBlock](https://oneblockuws.org/), [Lincoln Squared](https://lincolnsquared.nyc)
+
+## 💼 Previous Experience
 
 ### **Senior Public Relations Specialist - Rankings & Awards** @ [Ropes & Gray](https://ropesgray.com) | _May 2018—July 2020_
 
@@ -65,11 +72,6 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 ### Web development
 * Historically I've built sites on Wordpress with third party hosting, but I'm currently converting my sites to a Jekyll/GitHub/Netlify stack.
 * HTML / CSS / Javascript / Jekyll / Git / Markdown
-
-### Community involvement
-* Running: Member, [Front Runners NYC](https://frny.org/)	
-* Advocacy: Member, [Open New York](https://opennewyork.city/)
-* Volunteering: Trash collection, [OneBlock](https://oneblockuws.org/), [Lincoln Squared](https://lincolnsquared.nyc)
 
 ### Languages 
 * Spanish: CEFR B2
