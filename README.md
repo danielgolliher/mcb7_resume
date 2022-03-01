@@ -10,7 +10,7 @@ Writer and [Maximum New York](https://maximumnewyork.com/) founder based in 📍
 
 ### **Maximum New York** | _October 2021—present_
 
-[Maximum New York](https://maximumnewyork.com) is a civics organization I founded that does two things: (1) teaches New Yorkers how to productively self govern through cohort-based instruction in history, political theory, and modern politics, and (2) advocates for a larger, wealthier, more open NYC. The first cohort will begin at the end of March 2022. It's distinguishing feature is capturing the interest of a large pool of previously non-engaged New Yorkers, and the novel political theory I use to underpin it (see [this post](https://maximumnewyork.com/atlantis-on-the-hudson)).
+[Maximum New York](https://maximumnewyork.com) is a civics organization I founded that does two things: (1) teaches New Yorkers how to productively self govern through cohort-based instruction in history, political theory, and modern politics, and (2) advocates for a larger, wealthier, more open NYC. The first cohort will begin at the end of March 2022. Its distinguishing feature is capturing the interest of a large pool of previously non-engaged New Yorkers, and the novel political theory I use to underpin it (see [this post](https://maximumnewyork.com/atlantis-on-the-hudson)).
 
 ### **Independent Projects** | _July 2020—present_
 
