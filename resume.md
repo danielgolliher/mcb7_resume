@@ -1,8 +1,6 @@
 # Daniel Golliher
 
-Independent Project Manager and Generalist based in 📍 New York, NY   
-
-Experience working independently and in the trenches with senior business leaders. I’ve written and produced books, spun up websites, created successful marketing campaigns, and increased the public rank of one of the world’s largest law firms. I deploy varied skills from either side of the STEM line, always acquiring new ones as necessary. 
+Writer and [Maximum New York](https://maximumnewyork.com/) founder based in 📍 New York, NY   
 
 [Email](mailto:danielgolliher@gmail.com) / [Website](https://danielgolliher.com/) / [Twitter](https://twitter.com/danielgolliher) / [LinkedIn](https://www.linkedin.com/in/danielgolliher/)	/ [GitHub](https://github.com/danielgolliher/) / [Substack](https://golliher.substack.com)
 
@@ -10,15 +8,16 @@ Experience working independently and in the trenches with senior business leader
 
 ## 💼 Work Experience
 
+### **Maximum New York** | _October 2021—present_
+
+[Maximum New York](https://maximumnewyork.com) is a civics organization I founded that does two things: (1) teaches New Yorkers how to productively self govern through cohort-based instruction in history, political theory, and modern politics, and (2) advocates for a larger, wealthier, more open NYC. The first cohort will begin at the end of March 2022. It's distinguishing feature is capturing the interest of a large pool of previously non-engaged New Yorkers, and the novel political theory I use to underpin it (see [this post](https://maximumnewyork.com/atlantis-on-the-hudson)).
+
 ### **Independent Projects** | _July 2020—present_
 
-For the past 17 months I’ve pursued several independent projects:
-
-* [Maximum New York](https://maximumnewyork.com/): a civics project to help increase housing stock in New York City. I built the site with [Jekyll](https://jekyllrb.com/) and [Sass](https://sass-lang.com/); site hosting is provided by [Netlify](https://www.netlify.com/), and source hosting by [GitHub](https://github.com/danielgolliher) (private repo). 
-* [Graph of the New York City charter](https://golliher.substack.com/p/understanding-nycs-government): I built a graph of the NYC charter (~540 pages) to gain a better understanding of the interrelationships between different parts of the city government. I uploaded the charter to [Roam](https://roamresearch.com/), and manually tagged it with my own taxonomy. See the graph [here](https://roamresearch.com/#/app/NYC_govt/graph).  
-* [Jack & Percy Publishing](https://jackandpercypublishing.wordpress.com/): a small independent publishing venture; I redesign classic books for better aesthetics and physical feel, from start to finish. I estimate that I’ll do about two books a year (the second is in process). I have also previously written and independently produced [three other books](https://www.amazon.com/Daniel-Golliher/e/B00MW9N79I). 
-* [Interintellect](https://interintellect.com/): I’ve hosted eight salons as an Interintellect host on a variety of topics, and I worked with another ii team member to set up the company’s current website (we migrated from Wix to Wordpress, and I built out payment and membership functionality).
-* Web3: my projects here are just beginning. I've held cryptocurrencies in Coinbase custodial wallets, and non-custodial wallets. I joined [ConstitutionDAO](https://www.constitutiondao.com/) in its attempt to purchase one of the remaining extant copies of the U.S. Constitution (see [POAP](https://app.poap.xyz/scan/0xF7A1d0244079EEae41b520a53427B8aD6D128B65) here).  
+* [Graph of the New York City charter](https://golliher.substack.com/p/understanding-nycs-government): I built a graph of the NYC charter (~540 pages) to gain a better understanding of the interrelationships between different parts of the city government. I uploaded the charter to [Roam](https://roamresearch.com/), and manually tagged it with my own taxonomy. See the graph [here](https://roamresearch.com/#/app/NYC_govt/graph). I'm currently in the process of developing a smooth user interface so that non-technical members of the public can navigate the graph seemlessly.
+* [Lincoln Squared](https://lincolnsquared.nyc): this is a site where I record my progress in cleaning up "Trash Alley," my name for West End Avenue between 64th and 59th. I've also written about my sanitation project on _I Love the Upper West Side_ [here](https://ilovetheupperwestside.com/adopt-your-own-litter-basket-child/).  
+* [Jack & Percy Publishing](https://jackandpercypublishing.wordpress.com/): a small independent publishing venture; I redesign classic books for better aesthetics and physical feel, from start to finish. The second book is currently in process. I have also previously written and independently produced [three other books](https://www.amazon.com/Daniel-Golliher/e/B00MW9N79I). 
+* [Interintellect](https://interintellect.com/): I’ve hosted twelve salons as an Interintellect host on a variety of topics, and I worked with another ii team member to set up the company’s current website (we migrated from Wix to Wordpress, and I built out payment and membership functionality). 
 
 ### **Senior Public Relations Specialist - Rankings & Awards** @ [Ropes & Gray](https://ropesgray.com) | _May 2018—July 2020_
 
@@ -65,10 +64,11 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 
 ### Web development
 * Historically I've built sites on Wordpress with third party hosting, but I'm currently converting my sites to a Jekyll/GitHub/Netlify stack.
-* HTML / CSS / SCSS / Jekyll / Git / Markdown
+* HTML / CSS / Javascript / Jekyll / Git / Markdown
 
 ### Community involvement
 * Running: Member, [Front Runners NYC](https://frny.org/)	
+* Advocacy: Member, [Open New York](https://opennewyork.city/)
 * Volunteering: Trash collection, [OneBlock](https://oneblockuws.org/), [Lincoln Squared](https://lincolnsquared.nyc)
 
 ### Languages 
@@ -77,4 +77,4 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 
 ### Music 
 * Piano
-* Saxophone (acoustic and electric); see [my Instagram](https://instagram.com/danielgolliher) for some fun tunes.
+* Saxophone (acoustic and electric); see [my Instagram](https://instagram.com/danielgolliher) for some fun tunes. Former member of [LGBAC](lgbac.org).
